@@ -7,7 +7,7 @@
     <string name="cancel">Anuluj</string>
     <string name="ok">OK</string>
     <string name="got_it">Zrozumiałem</string>
-    <string name="no_app_to_handle_epub>Nie znaleziono żadnej aplikacji do otwarcia pliku epub.</string>
+    <string name="no_app_to_handle_epub">Nie znaleziono żadnej aplikacji do otwarcia pliku epub.</string>
     <string name="network_error">Ups! Nie można połączyć z serwerem.</string>
     <string name="network_error_retry">Spróbuj ponownie</string>
     <string name="error">Ups! Coś poszło nie tak.</string>
