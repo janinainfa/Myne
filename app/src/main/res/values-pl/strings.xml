@@ -19,92 +19,92 @@
     <string name="navigation_settings">Ustawienia</string>
 
     <!-- ToolTips -->
-    <string name="library_tooltip">Porada! Swipe library items left or right to share or view book details.</string>
+    <string name="library_tooltip">Porada! Przesuń elementy biblioteki w lewo lub prawo żeby udostępnić lub zobaczyć szczegóły książki.</string>
 
     <!-- Welcome Screen -->
-    <string name="welcome_screen_title">Thanks for installing Myne!</string>
+    <string name="welcome_screen_title">Dziękujemy za zainstalowanie Myne!</string>
     <string name="welcome_screen_desc">Choose your preferred ebook reader to embark on your reading journey.</string>
-    <string name="welcome_screen_button">Get Started</string>
+    <string name="welcome_screen_button">Rozpocznij</string>
 
     <!-- Home screen. -->
-    <string name="home_header">All Books</string>
-    <string name="home_language_icon_desc">Sort by language</string>
-    <string name="home_search_icon_desc">Search books</string>
-    <string name="language_menu_title">Browse by language</string>
+    <string name="home_header">Wszystkie książki</string>
+    <string name="home_language_icon_desc">Sortuj według języka</string>
+    <string name="home_search_icon_desc">Wyszukaj książki</string>
+    <string name="language_menu_title">Przeglądaj według języka</string>
 
     <!-- Categories screen. -->
-    <string name="categories_header">Categories</string>
+    <string name="categories_header">Kategorie</string>
     <string name="no_books_found_for_lang_and_cat">No books available in %s language for this category.</string>
     <!-- Categories -->
-    <string name="category_animal">Animals</string>
-    <string name="category_children">Children</string>
-    <string name="category_classics">Classics</string>
-    <string name="category_countries">Countries</string>
-    <string name="category_crime">Crime</string>
-    <string name="category_education">Education</string>
-    <string name="category_fiction">Fiction</string>
-    <string name="category_geography">Geography</string>
-    <string name="category_history">History</string>
-    <string name="category_literature">Literature</string>
-    <string name="category_law">Law</string>
-    <string name="category_music">Music</string>
+    <string name="category_animal">Zwierzęta</string>
+    <string name="category_children">Dzieci</string>
+    <string name="category_classics">Klasyki</string>
+    <string name="category_countries">Kraje</string>
+    <string name="category_crime">Kryminały</string>
+    <string name="category_education">Edukacja</string>
+    <string name="category_fiction">Fikcja</string>
+    <string name="category_geography">Geografia</string>
+    <string name="category_history">Historia</string>
+    <string name="category_literature">Literatura</string>
+    <string name="category_law">Prawo</string>
+    <string name="category_music">Muzyka</string>
     <string name="category_periodicals">Periodicals</string>
-    <string name="category_psychology">Psychology</string>
-    <string name="category_philosophy">Philosophy</string>
-    <string name="category_religion">Religion</string>
-    <string name="category_romance">Romance</string>
-    <string name="category_science">Science</string>
+    <string name="category_psychology">Psychologia</string>
+    <string name="category_philosophy">Filozofia</string>
+    <string name="category_religion">Religia</string>
+    <string name="category_romance">Romans</string>
+    <string name="category_science">Nauka</string>
 
     <!-- Library screen. -->
-    <string name="library_header">Library</string>
-    <string name="empty_library">Nothing Here!</string>
-    <string name="import_button_text">Import</string>
-    <string name="import_button_onboarding">Import your own books!</string>
+    <string name="library_header">Biblioteka</string>
+    <string name="empty_library">Nic tu nie ma!</string>
+    <string name="import_button_text">Importuj</string>
+    <string name="import_button_onboarding">Importuj swoje własne książki!</string>
     <string name="import_button_onboarding_desc">Now you can import your own EPUB books and read them in Myne.</string>
     <string name="import_button_desc">Import epub book</string>
     <string name="external_book_info_unavailable">Only available for internal books.</string>
-    <string name="epub_importing">Importing… \nPlease wait.</string>
-    <string name="epub_imported">Imported successfully!</string>
-    <string name="epub_import_error">Failed to import!</string>
-    <string name="open_app_chooser">Open with…</string>
+    <string name="epub_importing">Importowanie… \nProszę czekać.</string>
+    <string name="epub_imported">Zaimportowano pomyślnie!</string>
+    <string name="epub_import_error">Nie udało się zaimportować!</string>
+    <string name="open_app_chooser">Otwórz w…</string>
     <string name="share_app_chooser">Share with…</string>
-    <string name="library_read_button">Read</string>
-    <string name="library_delete_button">Delete</string>
-    <string name="library_delete_dialog_title">Are you sure about that?</string>
+    <string name="library_read_button">Czytaj</string>
+    <string name="library_delete_button">Usuń</string>
+    <string name="library_delete_dialog_title">Jesteś tego pewny?</string>
 
     <!-- Reader Detail Screen -->
-    <string name="reader_detail_header">Ebook Reader</string>
-    <string name="start_reading_button">Start</string>
-    <string name="continue_reading_button">Resume</string>
-    <string name="reader_chapters_list">Chapters</string>
+    <string name="reader_detail_header">Czytnik ebooków</string>
+    <string name="start_reading_button">Rozpocznij</string>
+    <string name="continue_reading_button">Kontynuuj</string>
+    <string name="reader_chapters_list">Rozdziały</string>
 
     <!--Reader Screen -->
     <string name="reader_max_font_size_reached">Sorry, cannot go any higher than that!</string>
     <string name="reader_min_font_size_reached">Sorry, cannot go any lower than that!</string>
-    <string name="reader_font_style_chooser">Change FontStyle</string>
-    <string name="reader_chapter_list_title">Chapters</string>
+    <string name="reader_font_style_chooser">Zmień styl czcionki</string>
+    <string name="reader_chapter_list_title">Rozdziały</string>
 
     <!-- Settings screen. -->
-    <string name="settings_header">Settings</string>
-    <string name="app_desc">Ebook Downloader</string>
-    <string name="made_by">Made with ❤ by Shivam</string>
+    <string name="settings_header">Ustawienia</string>
+    <string name="app_desc">Aplikacja do pobierania ebooków</string>
+    <string name="made_by">Stworzona z ❤ przez Shivam</string>
     <string name="general_settings_header">General</string>
-    <string name="default_reader_setting">Default Reader</string>
-    <string name="default_reader_dialog_title">Open ebooks with…</string>
-    <string name="reader_option_inbuilt">Inbuilt Reader</string>
-    <string name="reader_option_external">External Reader</string>
-    <string name="default_locale_setting">Default Locale</string>
+    <string name="default_reader_setting">Domyślny czytnik</string>
+    <string name="default_reader_dialog_title">Otwieraj ebooki w…</string>
+    <string name="reader_option_inbuilt">Wbudowany czytnik</string>
+    <string name="reader_option_external">Zewnętrzny cxytnik</string>
+    <string name="default_locale_setting">Domyślny język</string>
     <string name="default_locale_setting_desc">Select your preferred locale.</string>
     <string name="locale_setting_not_found">Sorry! this feature is not yet supported by your OS.</string>
-    <string name="display_setting_header">Display</string>
-    <string name="theme_setting">Default Theme</string>
-    <string name="theme_dialog_title">Change Theme</string>
-    <string name="theme_option_light">Light</string>
-    <string name="theme_option_dark">Dark</string>
-    <string name="theme_option_system">System Default</string>
-    <string name="theme_dialog_apply_button">Apply</string>
-    <string name="amoled_theme_setting">Black Theme</string>
-    <string name="amoled_theme_setting_disabled_desc">Enable Amoled Black Theme</string>
+    <string name="display_setting_header">Wygląd</string>
+    <string name="theme_setting">Domyślny Motyw</string>
+    <string name="theme_dialog_title">Zmień motyw</string>
+    <string name="theme_option_light">Jasny</string>
+    <string name="theme_option_dark">Ciemny</string>
+    <string name="theme_option_system">Systemowy</string>
+    <string name="theme_dialog_apply_button">Zastosuj</string>
+    <string name="amoled_theme_setting">Czarny Motyw</string>
+    <string name="amoled_theme_setting_disabled_desc">Włącz Czarny Motyw Amoled</string>
     <string name="amoled_theme_setting_enabled_desc">Disable Amoled Black Theme</string>
     <string name="material_you_setting" translatable="false">Material You</string>
     <string name="material_you_setting_disabled_desc">Enable Material You</string>
